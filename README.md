@@ -9,3 +9,7 @@ tricks3/tricks3 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 https://tricks3.com/
+
+https://hackpizza.com/
+
+https://apkparty.com/
